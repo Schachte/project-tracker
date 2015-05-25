@@ -32,6 +32,8 @@ body {
  * Customize the background color to match your design.
  */
 
+
+
 ::-moz-selection {
     background: #f2c2c9;
     color: #a4003a;
@@ -612,9 +614,19 @@ a:after {
 .headertext {
 
     color: white;
-    font-size: 20px;
+    font-size: 60px;
     text-shadow: 2px 0px 20px #000000;
+    font-family: 'Comfortaa', cursive;
 }
+
+.headertext2 {
+
+    color: white;
+    font-size: 30px;
+    text-shadow: 2px 0px 20px #000000;
+    font-family: 'Comfortaa', cursive;
+}
+
 
 
 /* ==========================================================================
